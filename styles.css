@@ -1,0 +1,21 @@
+.app-container {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+
+.picker-box {
+  margin-bottom: 20px;
+}
+
+.color-display {
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  border: 2px solid #222;
+}
